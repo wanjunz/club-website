@@ -1,2 +1,2 @@
 # club-website
-A website for students to find clubs and apply for clubs.
+A website where students can search for clubs and keep track of club application deadlines. 
